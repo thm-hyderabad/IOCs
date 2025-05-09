@@ -1,0 +1,474 @@
+Type,Indicator,Threat Actor,Source
+MD5,b14884744cf3f86f6bd5a87f6bcbed85,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+MD5,a37d9aa1e165b9dc6c4ff396a9df49aa,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+MD5,62ee540334236723136bf0fecfeb6311,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+MD5,b89990ec5fe9b5cef59f1cd690403a75,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+MD5,9cc4c6ca7826c0771cfbdf27b2bbb515,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+MD5,fc99daa2e1b47bae4be51e5e59aef1f0,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+MD5,66a69bf967bb882e34b1c32081a9ccee,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+MD5,a279035702edd9f2507b5ce5fa69c6d4,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+MD5,1741147a31526e23798a7a1b702ade36,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+MD5,65167974b397493fce320005916a13e9,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+MD5,574013c4a22ca2d8d8c76e65ef5e8059,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+MD5,36b19ca8737c63b9c9a3365ff4968ef5,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+MD5,9c66f8c0c970822985600bed04e56434,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+MD5,f27a4968af4ed64baef8e086516e86ac,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+MD5,98279047a7db080129e5ec84533822ef,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+MD5,248d4e6bb0f32afd7a1cfb975910235a,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+MD5,3c3c9303ae33f3bae2e139dbb1db838e,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+MD5,7608c396f0dfb9eac8d88a7b5a7e04e4,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+MD5,c86f9ef23b6bb200fc3c0d9d45f0eb4d,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+MD5,6a2243837c71d8071523cc76b8d4af43,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+MD5,8e4f65d5d58fca38a6d66a1afb228f20,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+Domain,admincell[.]in,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+Domain,admin-dept[.]in,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+Domain,coordbranch[.]in,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+Domain,adminbr[.]in,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+Domain,coordbr[.]in,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+Domain,admin-desk[.]in,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+Domain,admindesk[.]in,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+Domain,adminsec[.]in,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+Domain,admindept[.]in,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+Domain,admin-br[.]in,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+URL,hxxps://email9ov[.]in/VISIT_OF_MEDICAL/,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+URL,hxxp://103.2.232[.]82:8081/ISEPC-12-2023-Agenda-for-meeting/,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+Domain,baseuploads[.]com,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+Domain,baseuploads[.]com/myf/test.php,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+Domain,indiauc[.]com,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+Domain,indiauc[.]com/myf/test.php,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+URL,hxxps://drive.google.com/uc?export=download&id=1SaBv9C5EJlXKCQQ_8Tlkl1cBJ9-9XN8u,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+URL,hxxps://drive.google.com/uc?export=download&id=140KPyaNuYZgOhP3Q7sTQPZ6a-q6x5j-h,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
+Domain,ncloudup[.]com,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,gcloudsvc[.]com,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,nic-updates[.]in?,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,kavachmail-govin[.]rf[.]gd,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,kavach-app[.]com?,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,kavachguide[.]com,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,kavach-app[.]in,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,get-kavach[.]in,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,getkavach[.]com?,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,kavachsupport[.]com?,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,kavachdownload[.]in,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,kavachauthentication.blogspot[.]com,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,139.59.79[.]86?139.59.79[.]86/song.mp3,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,139.59.79[.]86/OneDriveHandler45_bf.zip,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,139.59.79[.]86/OneDriveHandler45.zip,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,139.59.79[.]86/C2L!Dem0&PeN/A@llPack3Ts/Cert.php?,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,wzxdao[.]com,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,wzxdao[.]com/onedrivehandlerx86.zip,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,wzxdao[.]com/OnrDriveHandlerx86.zip,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,hxxp://139.59.23[.]88/confirmation_id.pdf,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,hxxps://ncloudup[.]com/trendmic/details.pdf,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,hxxp://wzxdao[.]com/resultupdate.jpg,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,http://139.59.79[.]86/Pictures.jpg,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+MD5,123b180ed44531bfbac27c6eb0bbe01d,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+MD5,3817590cf8bec4a768bb84405590272f,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+MD5,0ed6451ffe34217e44355706f4900ecc,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+MD5,94daa776792429d1cb65edc1d525e2fc,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+MD5,c195d6bb06c93b94d39e5c1a2dfc6792,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+MD5,889c5c98e88c4889220617f57f5480f7,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+MD5,ac3f2c8563846134bb42cb050813eac8,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+SHA256 ,bc1acdca196f1ff72722243be2afe1429b88122afb9d4852d6d6e57689411d3d ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+SHA256 ,81038a217237afd16d80da7fc9219cbd145f9698bb512e2b625559a47ba73fec,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+SHA256 ,37f20f232aa86316901baccbb44af1668b1d868c1ca9aba8fcb36584352b3e0f,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+SHA256 ,93fb036e65c0683af5ffb98e2b61e30499dec068a4e15bf3bec8066d3e246852 ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+SHA256 ,902e087711ab8e612bd7cea9864bbadbe20a3500ba57f26f6eeb0b5b20b803ec ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+Domain ,reviewassignment[.]online reviewassignment[.]in ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+URL ,hxxps://reviewassignment[.]online/files/documents/bs/economy/1.hta,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+URL ,hxxps://reviewassignment[.]online/files/documents/bs/it/1.hta ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+URL ,hxxps://reviewassignment[.]online/files/documents/bs/survey/1.hta,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+IP,67.223.118[.]135 ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+IP,64.188.27[.]144 ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+URL ,hxxps://reviewassignment[.]online/files/backup/ap.txt ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+URL ,hxxp://dns1[.]indianblog[.]xyz/dailyworkout ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+SHA256 ,8e9bcc00fc32ddc612bdc0f1465fc79b40fc9e2df1003d452885e7e10feab1ee,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
+SHA256 ,ceb7b757b89693373ffa1c46dd96544bdc25d1a47608c2ea24578294bcf1db37 ,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
+SHA256 ,06b617aa8c38f916de8553ff6f572dcaa96e5c8941063c55b6c424289038c3a1 ,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
+SHA256 ,da3907cf75662c3401581a5140831f8b2520a4c3645257b3860c7db94295af88 ,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
+SHA256 ,838fd5d269fa09ef4f7e9f586b6577a9f46123a0af551de02de78501d916236d ,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
+SHA256 ,12d98137cd1b0cf59ce2fafbfe3a9c3477a42dae840909adad5d4d9f05dd8ede ,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
+SHA256 ,688c8e4522061bb9d82e4c3584f7ef8afc6f9e07e2374567755faad2a22e25b8 ,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
+SHA256 ,5695c1e5e4b381844a36d8281126eef73a9641a315f3fdd2eb475c9073c5f4da ,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
+SHA256 ,8d458fb59b6da20e1ba1658bb4a1f7dbb46d894530878e91b64d3c675d3d4516,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
+SHA256 ,36851d1da9b2f35da92d70d4c88ea1675f1059d68fafd3abb1099e075512b45e ,GravityRAT Android,https://blog.talosintelligence.com/cosmic-leopard/
+SHA256 ,4ebdfa738ef74945f6165e337050889dfa0aad61115b738672bbeda648a59dab ,GravityRAT Android,https://blog.talosintelligence.com/cosmic-leopard/
+SHA256 ,1382997d3a5bb9bdbb9d41bb84c916784591c7cdae68305c3177f327d8a63b71 ,GravityRAT Android,https://blog.talosintelligence.com/cosmic-leopard/
+SHA256 ,c00cedd6579e01187cd256736b8a506c168c6770776475e8327631df2181fae2 ,GravityRAT Android,https://blog.talosintelligence.com/cosmic-leopard/
+SHA256 ,380df073825aca1e2fdbea379431c2f4571a8c7d9369e207a31d2479fbc7be88,GravityRAT Android,https://blog.talosintelligence.com/cosmic-leopard/
+SHA256 ,63a76ca25a5e1e1cf6f0ca8d32ce14980736195e4e2990682b3294b125d241cf ,GravityAdmin ,https://blog.talosintelligence.com/cosmic-leopard/
+SHA256 ,69414a0ca1de6b2ab7b504a507d35c859fc5a1b8e0b3cf0c6a8948b2f652cbe9 ,GravityAdmin ,https://blog.talosintelligence.com/cosmic-leopard/
+SHA256 ,04e216f4780b6292ccc836fa0481607c62abb244f6a2eedc21c4a822bcf6d79f,GravityAdmin ,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,androidmetricsasia[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,dl01[.]mozillasecurity[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,officelibraries[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,javacdnlib[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,windowsupdatecloud[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,webbucket[.]co[.]uk ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,craftwithme[.]uk ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,sexyber[.]net ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,rockamore[.]co[.]uk ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,androidsdkstream[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,playstoreapi[.]net ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,sdklibraries[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,cvscout[.]uk ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,zclouddrive[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,jdklibraries[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,cloudieapp[.]net ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,androidadbserver[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,androidwebkit[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,teraspace[.]co[.]in,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]zclouddrive[.]com/downloads/CloudDrive_Setup_1[.]0[.]1[.]exe ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]www[.]sexyber[.]net/downloads/7ddf32e17a6ac5ce04a8ecbf782ca509/Sexyber-1[.]0[.]0[.]zip ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]sexyber[.]net/downloads/7ddf32e17a6ac5ce04a8ecbf782ca509/Sexyber-1[.]0[.]0[.]zip ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]cloudieapp[.]net/cloudie[.]zip ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]sni1[.]androidmetricsasia[.]com/voilet/8a99d28c[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]dev[.]androidadbserver[.]com/jurassic/6c67d428[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]adb[.]androidadbserver[.]com/jurassic/6c67d428[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]library[.]androidwebkit[.]com/kangaroo/8a99d28c[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]ux[.]androidwebkit[.]com/kangaroo/8a99d28c[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]jupiter[.]playstoreapi[.]net/indigo/8a99d28c[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]moon[.]playstoreapi[.]net/indigo/8a99d28c[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]jre[.]jdklibraries[.]com/hotriculture/671e00eb[.]php  ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]cloudinfinity-d4049-default-rtdb[.]firebaseio[.]com/ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]dl01[.]mozillasecurity[.]com/ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]dl01[.]mozillasecurity[.]com/Sier/resauth[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]dl01[.]mozillasecurity[.]com/resauth[.]php/ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]tl37[.]officelibraries[.]com/Sier/resauth[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]tl37[.]officelibraries[.]com/resauth[.]php/ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]jun[.]javacdnlib[.]com/Quebec/5be977ac[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]dl01[.]mozillasecurity[.]com/MicrosoftUpdates/6efbb147[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]tl37[.]officelibraries[.]com/MicrosoftUpdates/741bbfe6[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]tl37[.]officelibraries[.]com/MsWordUpdates/c47d1870[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]dl01[.]windowsupdatecloud[.]com/opex/7ab24931[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]tl37[.]officelibraries[.]com/opex/13942BA7[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxp[://]dl01[.]windowsupdatecloud[.]com/opex/7ab24931[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]download[.]rockamore[.]co[.]uk/m2c/m_client[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]api1[.]androidsdkstream[.]com/foxtrot/ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]api1[.]androidsdkstream[.]com/foxtrot/61c10953[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]jupiter[.]playstoreapi[.]net/RB/e7a18a38[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]sdk2[.]sdklibraries[.]com/golf/c6cf642b[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]jre[.]jdklibraries[.]com/hotriculture/671e00eb[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps://hxxp[://]api1[.]androidsdkstream[.]com/foxtrot//DataX/ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]download[.]cvscout[.]uk/cvscout/cvstyler_client[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]download[.]webbucket[.]co[.]uk/webbucket/strong_client[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]www[.]craftwithme[.]uk/cwmb/craftwithme/strong_client[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]download[.]sexyber[.]net/sexyber/sexyberC[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]download[.]webbucket[.]co[.]uk/A0B74607[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]zclouddrive[.]com/system/546F9A[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]download[.]cvscout[.]uk/cvscout/ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]download[.]cvscout[.]uk/c9a5e83c[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]zclouddrive[.]com/system/clouddrive/ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]download[.]sexyber[.]net/0fb1e3a0[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]www[.]craftwithme[.]uk/cwmb/d26873c6[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]download[.]teraspace[.]co[.]in/teraspace/ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]download[.]teraspace[.]co[.]in/78181D14[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]www[.]craftwithme[.]uk/cwmb/craftwithme/ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URL ,hxxps[://]download[.]webbucket[.]co[.]uk/webbucket/,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+SHA256 ,4e4967e3d39256049bc1054b966e5c609245fd3b2a934fda5cd1885526d8221e,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+SHA256 ,d2f58b08f8abfe5055f3c1f0b8d991dfe1deb62807a5336b134ce2fb36d87284,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+SHA256 ,db4d8d931f1b979cf32d311f9b03e851d3283b4f7e86252730247da25cf9f093,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+SHA256 ,4c6e3d8fdb2394edffe4a5bc45a238749e929301efa8bcfa3a247b1ab68eac54,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+SHA256 ,81de431987304676134138705fc1c21188ad7f27edf6b77a6551aa693194485e,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+SHA256 ,26151f1e24bc97532e49013fbe04919de1f51e346dba1f10ce2e389160f2fb9d,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+SHA256 ,a100ce0a67c5890bcc38d2b6e30f9164dfe266126ec40a2fd7eb8e941dc7d025,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+SHA256 ,806098afc2148dabb838b24c4dfaa148269ac3ddf769aee54e75d46bfef0c506,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+SHA256 ,bf37d6cb393b440f790ad2b333624fde079e10bfaeb44d65188e3ccc551c982f,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+URL,stemtopx[.]com/work/1.doc,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+URL,stemtopx[.]com/work/3.exe,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+URL,stemtopx[.]com/work/2.exe,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+URL,stemtopx[.]com/work/1.exe,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+URL,stemtopx[.]com/work/new/20.exe,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+URL,stemtopx[.]com/work/new/3.exe,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+URL,stemtopx[.]com/work/new/2.exe,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+URL,stemtopx[.]com/work/doc/20.doc,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+URL,stemtopx[.]com/work/k/1.docx,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+URL,stemtopx[.]com/work/k/1s.exe,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+Domain,Postindia[.]site,APT 36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+IP,88[.]222[.]245[.]211,APT 36,https://www.cyfirma.com/research/turning-aid-into-attack-exploitation-of-pakistans-youth-laptop-scheme-to-target-india/
+SHA256 ,cbf74574278a22f1c38ca922f91548596630fc67bb234834d52557371b9abf5d,APT 36,https://www.cyfirma.com/research/turning-aid-into-attack-exploitation-of-pakistans-youth-laptop-scheme-to-target-india/
+SHA256 ,287a5f95458301c632d6aa02de26d7fd9b63c6661af331dff1e9b2264d150d23,APT 36,https://www.cyfirma.com/research/turning-aid-into-attack-exploitation-of-pakistans-youth-laptop-scheme-to-target-india/
+Domain,Email[.]gov[.]in[.]gov-in[.]mywire[.]org,APT 36,https://www.cyfirma.com/research/turning-aid-into-attack-exploitation-of-pakistans-youth-laptop-scheme-to-target-india/
+MD5,ced11422832a7380381323ae78a7a9bc,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,f270105309e6574cab7a6acb1efb3c20,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,c574b2ebcc0aff84a23f1215f8a803be ,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,4938f42a3d691ef78f1ee8edc3b38f87,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,817532c454637a302238a4751694c336,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,e2f8fbc105a84283e191362f4ca07ae4,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,7c3b49f642f19116878b2c190f344f63,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,f6a58b0d267c7c53ccbcc6dafafd499b,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,f55afc8192f30ff7a584dbda700383d1,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,d6ae362b4b3f7a67949d177fdfc6bdec,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,907ba4486c589f2cb4a45b92f2a5350e,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,336316c1b5ed77d31b4adc06e06a2f84,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,f60c1a04161f354f0c6ac4678b3062d0,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,4dfdacf33db6ae0341b4d0e65aa3d755,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,2041d2347f78ce03c1f9e990724adf3c,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,fe8bf0bf2697d5e43e38d4b0364485a6,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,b99717d81e142e58af91efb4d5288bda,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,109897ba1f92339f9dc9a74dc38dfc88,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,807e6c1094b760e748a84ef9e05bc1f8,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,abb863131bbffad1dd8ee72d0758f34b,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,eebb4913b54af93bcfc7d56e081502af,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,e73b0354790273b0fcaa8c2deab3ad87,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,44b23edd6c9a63a2a38f1bf3d4ff5bb9,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,354716db015373c089744e7319cd93d3,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,6b45d5f194e2799e5178c8d858673900,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,56fd3a2f701d30fe3e5ebdd0d471f1ed,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,2478a5f6b82461eb06f3099478c4e2f6,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,97113b266fbff61d8d2f92793672688d,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,96764912417d260653b6949afb0ad25c,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,6a0adcf34a2f0ac21089b994dff02b85,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,a7a71259bdf700807a763119fd652e73,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,c006701ec5025222a74a419f8c238689,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,d5719a9ef7a6f012e26d0c86b4a676d9,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,e6404136626a446b46bf4ecaa885560e,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,825c7a1603f800ff247c8f3e9a1420af,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,253957d7df5c7e70ec9001766e8f087b,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,3d2001c112290c019afcd51fede564d3,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,7ca8532b081f8612d1c0b6ea01d40299,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,5e88b5122ae380c4b4741dcf0bdca198,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,e415374f1f9533f10f706f0a9124b0d4,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,e79ca3852ae5e14766544ec1d5d4d268,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,cc0b292144ccdf4a95014809258982c4,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,584ce9670a6f6a16eaaa615d64788f68,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,b2e007c6bde2d2ce03a5257732df95b2,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,"d254f6d56ad874c5095b92d620cb5b80	",APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,5fc559e4b663c20c9d5ea46fd164f4c7,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5 ,f997a21e9f7ad5eb9242b4decb7fdeb9,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+Domain,utkalsevasamitikanjurmarg[.]in,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+Domain,dipl[.]site,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+Domain,campusportals[.]in,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+Domain,mazagondoc[.]com,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+Domain,slidesfinder[.]com,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+Domain,162.0.209[.]114,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+Domain,151.106.117[.]91,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+Domain,192.64.117[.]203,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+C2,checkdailytips.servehttp[.]com/dailyworkout,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+C2,defender[.]windowupdatecache[.]in/,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+C2,172.67.128[.]127:80 ,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+C2,84.247.170[.]237:4858,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+C2,64.188.27[.]144:5863,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+C2,hxxp://vocport[.]com/Contactus,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+C2,hxxp://vocport[.]com/khalistanLeaderprotest,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+C2,hxxp://149.28.95[.]195/dakshf_upload.php,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+C2,hxxps://googleservices[.]live/dakshf_upload.php,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://campusportals[.]in/files/documents/bs/economy/,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://campusportals[.]in/files/documents/bs/economy/1.hta,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://campusportals[.]in/files/documents/bs/economy/2.hta,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://campusportals[.]in/files/documents/bs/it/,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://campusportals[.]in/files/documents/bs/it/1.hta,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://campusportals[.]in/files/documents/bs/it/2.hta,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://campusportals[.]in/files/documents/bs/survey/,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://campusportals[.]in/files/documents/bs/survey/1.hta,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://campusportals[.]in/files/documents/bs/survey/2.hta,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://campusportals[.]in/files/2.hta,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://campusportals[.]in/files/documents/bs/2.hta,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://campusportals[.]in/files/documents/xmlnsprcs.hta,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://utkalsevasamitikanjurmarg[.]in/assets/pdfs/Salary_Increment_FY_2024/binastos10/,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://utkalsevasamitikanjurmarg[.]in/assets/pdfs/Salary_Increment_FY_2024/binastos10/newpictures.png,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://utkalsevasamitikanjurmarg[.]in/assets/pdfs/Salary_Increment_FY_2024/Salary_Increment_FY_2024.zip,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://dipl[.]site/Content/2022-23/01/03/,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://dipl[.]site/Content/2022-23/01/03/Imge12542.hta,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://dipl[.]site/Content/2022-23/01/04/WhatsApp_Image_2024-05-06.zip,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://dipl[.]site/Content/2022-23/01/01/,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://dipl[.]site/Content/2022-23/01/01/ugt254d.hta,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://dipl[.]site/Content/2022-23/01/02/US_China_standoff-Opportunity-for-India-Chadha-21-Aug-23.zip,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://slidesfinder[.]com/free-templates/freefiles/158/08978.png,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://slidesfinder[.]com/free-templates/freefiles/158/Letter002.pdf,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://slidesfinder[.]com/free-templates/freefiles/158/rt12.png,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://slidesfinder[.]com/free-templates/freefiles/158/rtloki.png,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://slidesfinder[.]com/free-templates/freefiles/158/tmps.dotm,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/documents01/001doc.pdf,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/documents01/08978.png,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/documents01/Filezilla.exe,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/documents01/Letter002.pdf,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/documents01/rt12.png,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/documents01/sigthief.py,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/images/AdobeArm.exe,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/images/AdobeReader.bat,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/images/Chromes.exe,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/images/awccs.bat,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/images/igfxtk.bat,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/images/igfxtk.exe,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/images/msedg.bat,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/images/msedg.exe,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/images/msedgprefix.exe,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/images/sigthief.py,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/images/pdf/Naval_Projects_Payment_section_Report_29092023.docx,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/images/pdf/cheexe.exe,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/images/templates/Aerospace.dotm,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/images/templates/Naval_Projects_Payment_section_Report_131023.docx,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/images/templates/Slide7.png,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/images/templates/logo.png,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/images/templates/propritery/doc-logo.png,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/images/word/Naval_Projects_Payment_section_Report_131023.docx,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+URL,hxxps://mazagondoc[.]com/images/word/Project_and_Services_Section_report_10102023.docx,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+HOST,C:\Windows\Tasks\useH.hta,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+HOST,C:\Windows\Tasks\useT.hta,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+HOST,C:\Windows\Tasks\alphaT.hta,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+HOST,C:\Windows\Tasks\appH.bat,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+HOST,C:\Windows\Tasks\appT.bat,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+HOST,C:\Windows\Tasks\user01.bat,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+HOST,C:\Windows\Tasks\user02.bat,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+HOST,C:\ProgramData\VSUpdates\svirbre.exe,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+HOST,C:\Users\user\AppData\Roaming\AdobeArm.exe,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+HOST,C:\Users\user\AppData\Local\PrintsLogs\Postgres.exe,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+HOST,C:\Users\Public\BroadCastHUB\DUser.dll,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,f264ed8c76b1102ea55d73d931ab879b,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,6065407484f1e22e814dfa00bd1fae06,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,bdde8c9948142fafeec00d7094ae964f,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,bd9de1f98e8797926ab0fc9f2c6ca888,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,"8b5bf198e4948d4fe6a4b0402f7246e5	",APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,2bf596603c432fa46b494dc3edd2d30f,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,3a65fbc14bd7ff12cda97282935eefd8,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,4eaa6a69c9835c29ce8d39734e5d3d5f,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,4c52bb770d7b8639e1f305f908dbc800,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,c5ef19c97462e791f21c32931975dc7b,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,b2d407d569e4b21ff12736dbc434577f,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,12aef7e734fb872f9160a1c2a47326d5,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,7d6373d9f9a4270bd8af53f3861d7a9c,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+IP,165.22.221[.]71,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+IP,178.128.166[.]148,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+IP,152.42.162[.]105,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+IP,161.35.207[.]209,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+IP,159.65.146[.]80,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+IP,157.245.100[.]177,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+IP,hxxps://campusportals[.]in/myfiles/bdocuments/survey1.zip,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+IP,165.22.221[.]71/distro-dlna,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+IP,178.128.166[.]148/cjs-bin,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+IP,159.65.146[.]80/bin-xdg,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+IP,157.245.100[.]177/acpid-dit,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+IP,hxxps://drive.google[.]com/file/d/1p9rewZLjJ3WUdmj_As6el9G5IPNtkEUN/view?usp=sharing,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+IP,hxxps://drive.google[.]com/file/d/1cAPvjfakAWIHVa_cZXw_iwLDqsIi1uRX/view?usp=sharing,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+IP,hxxps://drive.google[.]com/file/d/1cIxWwVrhS4L6EHiDKc8Ua86NtciC4Njx/view?usp=sharing,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+IP,hxxps://drive.google[.]com/uc?export=download&id=1dlI8jSabaeJT1MnQxiih0Ww-hZrG-GAe,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+IP,hxxps://drive.google[.]com/uc?export=download&id=1XvW8ir8l0G9axv4lhEvQFOxOyzmMV64t,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+IP,hxxps://drive.google[.]com/uc?export=download&id=1btUsB3nWehTNW8Cho9Wv3Efrt4c6EhI_,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+EMAIL,fikumatry@gmail[.]com,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+EMAIL,fitfalcon0900@gmail[.]com,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+MD5,c4fb60217e3d43eac92074c45228506a,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+MD5,172fff2634545cf59d59c179d139e0aa,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+MD5,7b08580a4f6995f645a5bf8addbefa68,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+MD5,1b71434e049fb8765d528ecabd722072,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+MD5,c4f591cad9d158e2fbb0ed6425ce3804,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+MD5,5f03629508f46e822cf08d7864f585d3,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+MD5,f5cd5f616a482645bbf8f4c51ee38958,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+MD5,fa2c39adbb0ca7aeab5bc5cd1ffb2f08,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+MD5,00cd306f7cdcfe187c561dd42ab40f33,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+MD5,ca27970308b2fdeaa3a8e8e53c86cd3e,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+Domain,jkpolice[.]gov[.]in[.]kashmirattack[.]exposed,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+Domain,iaf[.]nic[.]in[.]ministryofdefenceindia[.]org,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+Domain,email[.]gov[.]in[.]ministryofdefenceindia[.]org,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+Domain,email[.]gov[.]in[.]departmentofdefenceindia[.]link,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+Domain,email[.]gov[.]in[.]departmentofdefence[.]de,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+Domain,email[.]gov[.]in[.]briefcases[.]email,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+Domain,email[.]gov[.]in[.]modindia[.]link,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+Domain,email[.]gov[.]in[.]defenceindia[.]ltd,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+Domain,email[.]gov[.]in[.]indiadefencedepartment[.]link,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+Domain,email[.]gov[.]in[.]departmentofspace[.]info,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+Domain,email[.]gov[.]in[.]indiangov[.]download,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+Domain,indianarmy[.]nic[.]in[.]departmentofdefence[.]de,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+Domain,indianarmy[.]nic[.]in[.]ministryofdefenceindia[.]org,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+Domain,email[.]gov[.]in[.]indiandefence[.]work,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+Domain,email[.]gov[.]in[.]drdosurvey[.]info,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+URL,hxxps://iaf[.]nic[.]in[.]ministryofdefenceindia[.]org/publications/default[.]htm,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+URL,hxxps://jkpolice[.]gov[.]in[.]kashmiraxxack[.]exposed/service/home,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+URL,hxxps://email[.]gov[.]in[.]ministryofdefenceindia[.]org/service/home/,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+URL,hxxps://email[.]gov[.]in[.]departmentofdefenceindia[.]link/service/home/,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+URL,hxxps://email[.]gov[.]in[.]departmentofdefence[.]de/service/home/,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+URL,hxxps://email[.]gov[.]in[.]indiangov[.]download/service/home/,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+URL,hxxps://indianarmy[.]nic[.]in[.]departmentofdefence[.]de/publications/publications-site-main/index[.]html,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+URL,hxxps://indianarmy[.]nic[.]in[.]ministryofdefenceindia[.]org/publications/publications-site-main/index[.]htm,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+URL,hxxps://email[.]gov[.]in[.]briefcases[.]email/service/home/,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+URL,hxxps://email[.]gov[.]in[.]modindia[.]link/service/home/,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+URL,hxxps://email[.]gov[.]in[.]defenceindia[.]ltd/service/home/,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+URL,hxxps://email[.]gov[.]in[.]indiadefencedepartment[.]link/service/home/,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+URL,hxxps://email[.]gov[.]in[.]departmentofspace[.]info/service/home/,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+URL,hxxps://email[.]gov[.]in[.]indiandefence[.]work/service/home/,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+MD5,026e8e7acb2f2a156f8afff64fd54066,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+MD5,fb64c22d37c502bde55b19688d40c803,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+MD5,70b8040730c62e4a52a904251fa74029,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+MD5,3efec6ffcbfe79f71f5410eb46f1c19e,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+MD5,b03211f6feccd3a62273368b52f6079d,APT36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
+MD5,a5410b76d0cb36786e00d2968d3ab6e4,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,f404496abccfa93eed5dfda9d8a53dc6,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,0e57890a3ba16b1ac0117a624f262e61,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,57c2f8b4bbf4037439317a44c2263346,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,53eebedc3846b7cf5e29a90a5b96c803,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,97c3328427b72f05f120e9a98b6f9b09,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,0690116134586d41a23baed300fc6355,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,ef40f484e095f0f6f207139cb870a16e,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,9d189e06d3c4cefdd226e645a0b8bdb9,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,589a65e0f3fe6777d17d0ac36ab07f6f,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,0eb9e8bec7cc70d603d2d8b6efdd6bb5,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,8ceeeec0e33026114f028cbb006cb7fc,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,1d65fa0457a9917809660fff782689fe,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,7637cbfa99110fe8e1074e7ead66710e,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,32a44a8f7b722b078b647e82cb9e85cf,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,a2dc9654b99f656b4ab30cf5d97fe2e1,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,b45aa156aef2ad2c77b7c623a222f453,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,83ce6ee6ad09a466eb96f347a8b0dc20,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,cf6681cf1f765edb6cae81eeed389f78,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,c952aca2036d6646c0cffde9e6f22775,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,b5e71ff3932c5ef6319b7ca70f7ba8da,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,0a67bfda993152c93a212087677f9b60,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,e165114280204c39e99cf0c650477bf8,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+C2,79.141.161[.]58:1256,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+C2,updates.widgetservicecenter[.]com,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+C2,updates.biossysinternal[.]com,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+URL,hxxps://egovservice.in/dssrts/helpers/fonts/2024-National-Holidays-RH-PER_N-1/,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+URL,hxxps://egovservice.in/dssrts/helpers/fonts/2024-National-Holidays-RH-PER_N-1/inst/,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+URL,hxxp://egovservice.in/dssrts/helpers/fonts/2024-National-Holidays-RH-PER_N-1/lns/clinsixfer.elf,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+URL,hxxp://egovservice.in/dssrts/helpers/fonts/2024-National-Holidays-RH-PER_N-1/lns/2024-National-Holidays-RH-PER_N-1.pdf,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+URL,hxxps://nhp.mowr.gov.in/NHPMIS/TrainingMaterial/aspx/Security-Guidelines/,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+URL,hxxps://nhp.mowr.gov.in/NHPMIS/TrainingMaterial/aspx/Security-Guidelines/wont/,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+URL,hxxps://updates.widgetservicecenter.com/antivmcommand,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+URL,hxxps://modspaceinterior.com/wp-content/upgrade/02/NDC65-Updated-Schedule.zip,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+URL,hxxps://modspaceinterior.com/wp-content/upgrade/01/,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+URL,hxxps://modspaceinterior.com/wp-content/upgrade/01/NDC65-Updated-Schedule.hta,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+URL,hxxps://egovservice.in/vvcmcrts/,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+URL,hxxps://egovservice.in/vvcmc_safety_tank/,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+URL,hxxps://egovservice.in/testformonline/test_form,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+URL,hxxps://egovservice.in/payroll_vvcmc/,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+URL,hxxps://egovservice.in/pakora/egovservice.in/,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+URL,hxxps://egovservice.in/dssrts/,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+URL,hxxps://egovservice.in/cmc/,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+URL,hxxps://egovservice.in/vvcmcrtsballarpur72/,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+URL,hxxps://egovservice.in/dss/,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+URL,hxxps://egovservice.in/130521/set_authority/,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+URL,hxxps://egovservice.in/130521/13/,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,modspaceinterior[.]com,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,drjagrutichavan[.]com,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,nhp.mowr[.]gov[.]in,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,pmshriggssssiwan[.]in,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,educationportals[.]in,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,egovservice[.]in,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,gadchiroli.egovservice[.]in,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,pen.egovservice[.]in,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,cpcontacts.egovservice[.]in,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,cpanel.egovservice[.]in,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,webdisk.egovservice[.]in,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,cpcalendars.egovservice[.]in,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,webmail.egovservice[.]in,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,www.dss.egovservice[.]in,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,www.cmc.egovservice[.]in,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,cmc.egovservice[.]in,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,dss.egovservice[.]in,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,mail.egovservice[.]in,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,www.egovservice[.]in,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,www.pakola.egovservice[.]in,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,pakola.egovservice[.]in,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,www.pakora.egovservice[.]in,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+Domain,pakora.egovservice[.]in,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+HOST,C:\ProgramData\LavaSoft\Sampeose.dll,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+HOST,C:\ProgramData\LavaSoft\DUI70.dll,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+HOST,C:\ProgramData\LavaSoft\girbesre.exe,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+HOST,C:\ProgramData\LavaSoft\svnides.hta,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+HOST,C:\Users\Public\USOShared-1de48789-1285\zuidrt.pdf,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+HOST,C:\Users\Public\Downloads\Document.pdf,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+HOST,C:\Users\Public\Downloads\suport.exe,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+HOST,E:\finalRnd\Myapp\obj\Debug\Myapp.pdb,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,320bc4426f4f152d009b6379b5257c78,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,9de50f9357187b623b06fc051e3cac4f,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,c9c98cf1624ec4717916414922f196be,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
+MD5,83ce6ee6ad09a466eb96f347a8b0dc20,SideCopy,https://www.seqrite.com/blog/goodbye-hta-hello-msi-new-ttps-and-clusters-of-an-apt-driven-by-multi-platform-attacks/
