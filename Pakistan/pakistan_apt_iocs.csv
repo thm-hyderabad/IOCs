@@ -1,4 +1,4 @@
-Type,Indicator,Threat Actor,Source
+ï»¿Type,Indicator,Threat Actor,Source
 MD5,b14884744cf3f86f6bd5a87f6bcbed85,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
 MD5,a37d9aa1e165b9dc6c4ff396a9df49aa,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
 MD5,62ee540334236723136bf0fecfeb6311,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
@@ -40,20 +40,20 @@ URL,hxxps://drive.google.com/uc?export=download&id=1SaBv9C5EJlXKCQQ_8Tlkl1cBJ9-9
 URL,hxxps://drive.google.com/uc?export=download&id=140KPyaNuYZgOhP3Q7sTQPZ6a-q6x5j-h,APT 36,https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
 Domain,ncloudup[.]com,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
 Domain,gcloudsvc[.]com,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
-Domain,nic-updates[.]in?,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,nic-updates[.]inâ€¨,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
 Domain,kavachmail-govin[.]rf[.]gd,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
-Domain,kavach-app[.]com?,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,kavach-app[.]comâ€¨,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
 Domain,kavachguide[.]com,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
 Domain,kavach-app[.]in,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
 Domain,get-kavach[.]in,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
-Domain,getkavach[.]com?,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
-Domain,kavachsupport[.]com?,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,getkavach[.]comâ€¨,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,kavachsupport[.]comâ€¨,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
 Domain,kavachdownload[.]in,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
 Domain,kavachauthentication.blogspot[.]com,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
-Domain,139.59.79[.]86?139.59.79[.]86/song.mp3,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,139.59.79[.]86â€¨139.59.79[.]86/song.mp3,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
 Domain,139.59.79[.]86/OneDriveHandler45_bf.zip,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
 Domain,139.59.79[.]86/OneDriveHandler45.zip,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
-Domain,139.59.79[.]86/C2L!Dem0&PeN/A@llPack3Ts/Cert.php?,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+Domain,139.59.79[.]86/C2L!Dem0&PeN/A@llPack3Ts/Cert.phpâ€¨,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
 Domain,wzxdao[.]com,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
 Domain,wzxdao[.]com/onedrivehandlerx86.zip,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
 Domain,wzxdao[.]com/OnrDriveHandlerx86.zip,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
@@ -68,111 +68,111 @@ MD5,94daa776792429d1cb65edc1d525e2fc,APT 36,https://www.zscaler.com/blogs/securi
 MD5,c195d6bb06c93b94d39e5c1a2dfc6792,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
 MD5,889c5c98e88c4889220617f57f5480f7,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
 MD5,ac3f2c8563846134bb42cb050813eac8,APT 36,https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
-Sha256 ,bc1acdca196f1ff72722243be2afe1429b88122afb9d4852d6d6e57689411d3d ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
-Sha256 ,81038a217237afd16d80da7fc9219cbd145f9698bb512e2b625559a47ba73fec,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
-Sha256 ,37f20f232aa86316901baccbb44af1668b1d868c1ca9aba8fcb36584352b3e0f,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
-Sha256 ,93fb036e65c0683af5ffb98e2b61e30499dec068a4e15bf3bec8066d3e246852 ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
-Sha256 ,902e087711ab8e612bd7cea9864bbadbe20a3500ba57f26f6eeb0b5b20b803ec ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
-Domain ,reviewassignment[.]online reviewassignment[.]in ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
-URL ,hxxps://reviewassignment[.]online/files/documents/bs/economy/1.hta,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
-URL ,hxxps://reviewassignment[.]online/files/documents/bs/it/1.hta ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
-URL ,hxxps://reviewassignment[.]online/files/documents/bs/survey/1.hta,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
-IP ,67.223.118[.]135 ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
-IP ,64.188.27[.]144 ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
-URL ,hxxps://reviewassignment[.]online/files/backup/ap.txt ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
-URL ,hxxp://dns1[.]indianblog[.]xyz/dailyworkout ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
-Sha256 ,8e9bcc00fc32ddc612bdc0f1465fc79b40fc9e2df1003d452885e7e10feab1ee,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
-Sha256 ,ceb7b757b89693373ffa1c46dd96544bdc25d1a47608c2ea24578294bcf1db37 ,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
-Sha256 ,06b617aa8c38f916de8553ff6f572dcaa96e5c8941063c55b6c424289038c3a1 ,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
-Sha256 ,da3907cf75662c3401581a5140831f8b2520a4c3645257b3860c7db94295af88 ,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
-Sha256 ,838fd5d269fa09ef4f7e9f586b6577a9f46123a0af551de02de78501d916236d ,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
-Sha256 ,12d98137cd1b0cf59ce2fafbfe3a9c3477a42dae840909adad5d4d9f05dd8ede ,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
-Sha256 ,688c8e4522061bb9d82e4c3584f7ef8afc6f9e07e2374567755faad2a22e25b8 ,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
-Sha256 ,5695c1e5e4b381844a36d8281126eef73a9641a315f3fdd2eb475c9073c5f4da ,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
-Sha256 ,8d458fb59b6da20e1ba1658bb4a1f7dbb46d894530878e91b64d3c675d3d4516,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
-Sha256 ,36851d1da9b2f35da92d70d4c88ea1675f1059d68fafd3abb1099e075512b45e ,GravityRAT Android,https://blog.talosintelligence.com/cosmic-leopard/
-Sha256 ,4ebdfa738ef74945f6165e337050889dfa0aad61115b738672bbeda648a59dab ,GravityRAT Android,https://blog.talosintelligence.com/cosmic-leopard/
-Sha256 ,1382997d3a5bb9bdbb9d41bb84c916784591c7cdae68305c3177f327d8a63b71 ,GravityRAT Android,https://blog.talosintelligence.com/cosmic-leopard/
-Sha256 ,c00cedd6579e01187cd256736b8a506c168c6770776475e8327631df2181fae2 ,GravityRAT Android,https://blog.talosintelligence.com/cosmic-leopard/
-Sha256 ,380df073825aca1e2fdbea379431c2f4571a8c7d9369e207a31d2479fbc7be88,GravityRAT Android,https://blog.talosintelligence.com/cosmic-leopard/
-Sha256 ,63a76ca25a5e1e1cf6f0ca8d32ce14980736195e4e2990682b3294b125d241cf ,GravityAdmin ,https://blog.talosintelligence.com/cosmic-leopard/
-Sha256 ,69414a0ca1de6b2ab7b504a507d35c859fc5a1b8e0b3cf0c6a8948b2f652cbe9 ,GravityAdmin ,https://blog.talosintelligence.com/cosmic-leopard/
-Sha256 ,04e216f4780b6292ccc836fa0481607c62abb244f6a2eedc21c4a822bcf6d79f,GravityAdmin ,https://blog.talosintelligence.com/cosmic-leopard/
-Domain,androidmetricsasia[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-Domain,dl01[.]mozillasecurity[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-Domain,officelibraries[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-Domain,javacdnlib[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-Domain,windowsupdatecloud[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-Domain,webbucket[.]co[.]uk ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-Domain,craftwithme[.]uk ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-Domain,sexyber[.]net ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-Domain,rockamore[.]co[.]uk ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-Domain,androidsdkstream[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-Domain,playstoreapi[.]net ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-Domain,sdklibraries[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-Domain,cvscout[.]uk ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-Domain,zclouddrive[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-Domain,jdklibraries[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-Domain,cloudieapp[.]net ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-Domain,androidadbserver[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-Domain,androidwebkit[.]com ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Sha256Â ,bc1acdca196f1ff72722243be2afe1429b88122afb9d4852d6d6e57689411d3dÂ ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+Sha256Â ,81038a217237afd16d80da7fc9219cbd145f9698bb512e2b625559a47ba73fec,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+Sha256Â ,37f20f232aa86316901baccbb44af1668b1d868c1ca9aba8fcb36584352b3e0f,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+Sha256Â ,93fb036e65c0683af5ffb98e2b61e30499dec068a4e15bf3bec8066d3e246852Â ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+Sha256Â ,902e087711ab8e612bd7cea9864bbadbe20a3500ba57f26f6eeb0b5b20b803ecÂ ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+DomainÂ ,reviewassignment[.]onlineÂ reviewassignment[.]inÂ ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+URLÂ ,hxxps://reviewassignment[.]online/files/documents/bs/economy/1.hta,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+URLÂ ,hxxps://reviewassignment[.]online/files/documents/bs/it/1.htaÂ ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+URLÂ ,hxxps://reviewassignment[.]online/files/documents/bs/survey/1.hta,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+IPÂ ,67.223.118[.]135Â ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+IPÂ ,64.188.27[.]144Â ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+URLÂ ,hxxps://reviewassignment[.]online/files/backup/ap.txtÂ ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+URLÂ ,hxxp://dns1[.]indianblog[.]xyz/dailyworkoutÂ ,SideCopy,https://cyble.com/blog/the-overlapping-cyber-strategies-of-transparent-tribe-and-sidecopy-against-india/
+Sha256Â ,8e9bcc00fc32ddc612bdc0f1465fc79b40fc9e2df1003d452885e7e10feab1ee,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
+Sha256Â ,ceb7b757b89693373ffa1c46dd96544bdc25d1a47608c2ea24578294bcf1db37Â ,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
+Sha256Â ,06b617aa8c38f916de8553ff6f572dcaa96e5c8941063c55b6c424289038c3a1Â ,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
+Sha256Â ,da3907cf75662c3401581a5140831f8b2520a4c3645257b3860c7db94295af88Â ,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
+Sha256Â ,838fd5d269fa09ef4f7e9f586b6577a9f46123a0af551de02de78501d916236dÂ ,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
+Sha256Â ,12d98137cd1b0cf59ce2fafbfe3a9c3477a42dae840909adad5d4d9f05dd8edeÂ ,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
+Sha256Â ,688c8e4522061bb9d82e4c3584f7ef8afc6f9e07e2374567755faad2a22e25b8Â ,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
+Sha256Â ,5695c1e5e4b381844a36d8281126eef73a9641a315f3fdd2eb475c9073c5f4daÂ ,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
+Sha256Â ,8d458fb59b6da20e1ba1658bb4a1f7dbb46d894530878e91b64d3c675d3d4516,HeavyLift,https://blog.talosintelligence.com/cosmic-leopard/
+Sha256Â ,36851d1da9b2f35da92d70d4c88ea1675f1059d68fafd3abb1099e075512b45eÂ ,GravityRAT Android,https://blog.talosintelligence.com/cosmic-leopard/
+Sha256Â ,4ebdfa738ef74945f6165e337050889dfa0aad61115b738672bbeda648a59dabÂ ,GravityRAT Android,https://blog.talosintelligence.com/cosmic-leopard/
+Sha256Â ,1382997d3a5bb9bdbb9d41bb84c916784591c7cdae68305c3177f327d8a63b71Â ,GravityRAT Android,https://blog.talosintelligence.com/cosmic-leopard/
+Sha256Â ,c00cedd6579e01187cd256736b8a506c168c6770776475e8327631df2181fae2Â ,GravityRAT Android,https://blog.talosintelligence.com/cosmic-leopard/
+Sha256Â ,380df073825aca1e2fdbea379431c2f4571a8c7d9369e207a31d2479fbc7be88,GravityRAT Android,https://blog.talosintelligence.com/cosmic-leopard/
+Sha256Â ,63a76ca25a5e1e1cf6f0ca8d32ce14980736195e4e2990682b3294b125d241cfÂ ,GravityAdminÂ ,https://blog.talosintelligence.com/cosmic-leopard/
+Sha256Â ,69414a0ca1de6b2ab7b504a507d35c859fc5a1b8e0b3cf0c6a8948b2f652cbe9Â ,GravityAdminÂ ,https://blog.talosintelligence.com/cosmic-leopard/
+Sha256Â ,04e216f4780b6292ccc836fa0481607c62abb244f6a2eedc21c4a822bcf6d79f,GravityAdminÂ ,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,androidmetricsasia[.]comÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,dl01[.]mozillasecurity[.]comÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,officelibraries[.]comÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,javacdnlib[.]comÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,windowsupdatecloud[.]comÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,webbucket[.]co[.]ukÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,craftwithme[.]ukÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,sexyber[.]netÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,rockamore[.]co[.]ukÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,androidsdkstream[.]comÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,playstoreapi[.]netÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,sdklibraries[.]comÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,cvscout[.]ukÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,zclouddrive[.]comÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,jdklibraries[.]comÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,cloudieapp[.]netÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,androidadbserver[.]comÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Domain,androidwebkit[.]comÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
 Domain,teraspace[.]co[.]in,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]zclouddrive[.]com/downloads/CloudDrive_Setup_1[.]0[.]1[.]exe ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]www[.]sexyber[.]net/downloads/7ddf32e17a6ac5ce04a8ecbf782ca509/Sexyber-1[.]0[.]0[.]zip ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]sexyber[.]net/downloads/7ddf32e17a6ac5ce04a8ecbf782ca509/Sexyber-1[.]0[.]0[.]zip ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]cloudieapp[.]net/cloudie[.]zip ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]sni1[.]androidmetricsasia[.]com/voilet/8a99d28c[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]dev[.]androidadbserver[.]com/jurassic/6c67d428[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]adb[.]androidadbserver[.]com/jurassic/6c67d428[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]library[.]androidwebkit[.]com/kangaroo/8a99d28c[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]ux[.]androidwebkit[.]com/kangaroo/8a99d28c[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]jupiter[.]playstoreapi[.]net/indigo/8a99d28c[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]moon[.]playstoreapi[.]net/indigo/8a99d28c[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]jre[.]jdklibraries[.]com/hotriculture/671e00eb[.]php  ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]cloudinfinity-d4049-default-rtdb[.]firebaseio[.]com/ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]dl01[.]mozillasecurity[.]com/ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]dl01[.]mozillasecurity[.]com/Sier/resauth[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]dl01[.]mozillasecurity[.]com/resauth[.]php/ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]tl37[.]officelibraries[.]com/Sier/resauth[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]tl37[.]officelibraries[.]com/resauth[.]php/ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]jun[.]javacdnlib[.]com/Quebec/5be977ac[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]dl01[.]mozillasecurity[.]com/MicrosoftUpdates/6efbb147[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]tl37[.]officelibraries[.]com/MicrosoftUpdates/741bbfe6[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]tl37[.]officelibraries[.]com/MsWordUpdates/c47d1870[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]dl01[.]windowsupdatecloud[.]com/opex/7ab24931[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]tl37[.]officelibraries[.]com/opex/13942BA7[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxp[://]dl01[.]windowsupdatecloud[.]com/opex/7ab24931[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]download[.]rockamore[.]co[.]uk/m2c/m_client[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]api1[.]androidsdkstream[.]com/foxtrot/ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]api1[.]androidsdkstream[.]com/foxtrot/61c10953[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]jupiter[.]playstoreapi[.]net/RB/e7a18a38[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]sdk2[.]sdklibraries[.]com/golf/c6cf642b[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]jre[.]jdklibraries[.]com/hotriculture/671e00eb[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps://hxxp[://]api1[.]androidsdkstream[.]com/foxtrot//DataX/ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]download[.]cvscout[.]uk/cvscout/cvstyler_client[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]download[.]webbucket[.]co[.]uk/webbucket/strong_client[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]www[.]craftwithme[.]uk/cwmb/craftwithme/strong_client[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]download[.]sexyber[.]net/sexyber/sexyberC[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]download[.]webbucket[.]co[.]uk/A0B74607[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]zclouddrive[.]com/system/546F9A[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]download[.]cvscout[.]uk/cvscout/ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]download[.]cvscout[.]uk/c9a5e83c[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]zclouddrive[.]com/system/clouddrive/ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]download[.]sexyber[.]net/0fb1e3a0[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]www[.]craftwithme[.]uk/cwmb/d26873c6[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]download[.]teraspace[.]co[.]in/teraspace/ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]download[.]teraspace[.]co[.]in/78181D14[.]php ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]www[.]craftwithme[.]uk/cwmb/craftwithme/ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-URL ,hxxps[://]download[.]webbucket[.]co[.]uk/webbucket/,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
-Sha256 ,4e4967e3d39256049bc1054b966e5c609245fd3b2a934fda5cd1885526d8221e,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
-Sha256 ,d2f58b08f8abfe5055f3c1f0b8d991dfe1deb62807a5336b134ce2fb36d87284,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
-Sha256 ,db4d8d931f1b979cf32d311f9b03e851d3283b4f7e86252730247da25cf9f093,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
-Sha256 ,4c6e3d8fdb2394edffe4a5bc45a238749e929301efa8bcfa3a247b1ab68eac54,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
-Sha256 ,81de431987304676134138705fc1c21188ad7f27edf6b77a6551aa693194485e,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
-Sha256 ,26151f1e24bc97532e49013fbe04919de1f51e346dba1f10ce2e389160f2fb9d,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
-Sha256 ,a100ce0a67c5890bcc38d2b6e30f9164dfe266126ec40a2fd7eb8e941dc7d025,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
-Sha256 ,806098afc2148dabb838b24c4dfaa148269ac3ddf769aee54e75d46bfef0c506,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
-Sha256 ,bf37d6cb393b440f790ad2b333624fde079e10bfaeb44d65188e3ccc551c982f,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+URLÂ ,hxxps[://]zclouddrive[.]com/downloads/CloudDrive_Setup_1[.]0[.]1[.]exeÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]www[.]sexyber[.]net/downloads/7ddf32e17a6ac5ce04a8ecbf782ca509/Sexyber-1[.]0[.]0[.]zipÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]sexyber[.]net/downloads/7ddf32e17a6ac5ce04a8ecbf782ca509/Sexyber-1[.]0[.]0[.]zipÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]cloudieapp[.]net/cloudie[.]zipÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]sni1[.]androidmetricsasia[.]com/voilet/8a99d28c[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]dev[.]androidadbserver[.]com/jurassic/6c67d428[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]adb[.]androidadbserver[.]com/jurassic/6c67d428[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]library[.]androidwebkit[.]com/kangaroo/8a99d28c[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]ux[.]androidwebkit[.]com/kangaroo/8a99d28c[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]jupiter[.]playstoreapi[.]net/indigo/8a99d28c[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]moon[.]playstoreapi[.]net/indigo/8a99d28c[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]jre[.]jdklibraries[.]com/hotriculture/671e00eb[.]phpÂ Â ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]cloudinfinity-d4049-default-rtdb[.]firebaseio[.]com/Â ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]dl01[.]mozillasecurity[.]com/Â ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]dl01[.]mozillasecurity[.]com/Sier/resauth[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]dl01[.]mozillasecurity[.]com/resauth[.]php/Â ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]tl37[.]officelibraries[.]com/Sier/resauth[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]tl37[.]officelibraries[.]com/resauth[.]php/Â ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]jun[.]javacdnlib[.]com/Quebec/5be977ac[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]dl01[.]mozillasecurity[.]com/MicrosoftUpdates/6efbb147[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]tl37[.]officelibraries[.]com/MicrosoftUpdates/741bbfe6[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]tl37[.]officelibraries[.]com/MsWordUpdates/c47d1870[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]dl01[.]windowsupdatecloud[.]com/opex/7ab24931[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]tl37[.]officelibraries[.]com/opex/13942BA7[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxp[://]dl01[.]windowsupdatecloud[.]com/opex/7ab24931[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]download[.]rockamore[.]co[.]uk/m2c/m_client[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]api1[.]androidsdkstream[.]com/foxtrot/Â ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]api1[.]androidsdkstream[.]com/foxtrot/61c10953[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]jupiter[.]playstoreapi[.]net/RB/e7a18a38[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]sdk2[.]sdklibraries[.]com/golf/c6cf642b[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]jre[.]jdklibraries[.]com/hotriculture/671e00eb[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps://hxxp[://]api1[.]androidsdkstream[.]com/foxtrot//DataX/Â ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]download[.]cvscout[.]uk/cvscout/cvstyler_client[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]download[.]webbucket[.]co[.]uk/webbucket/strong_client[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]www[.]craftwithme[.]uk/cwmb/craftwithme/strong_client[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]download[.]sexyber[.]net/sexyber/sexyberC[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]download[.]webbucket[.]co[.]uk/A0B74607[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]zclouddrive[.]com/system/546F9A[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]download[.]cvscout[.]uk/cvscout/Â ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]download[.]cvscout[.]uk/c9a5e83c[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]zclouddrive[.]com/system/clouddrive/Â ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]download[.]sexyber[.]net/0fb1e3a0[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]www[.]craftwithme[.]uk/cwmb/d26873c6[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]download[.]teraspace[.]co[.]in/teraspace/Â ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]download[.]teraspace[.]co[.]in/78181D14[.]phpÂ ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]www[.]craftwithme[.]uk/cwmb/craftwithme/Â ,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+URLÂ ,hxxps[://]download[.]webbucket[.]co[.]uk/webbucket/,Cosmic Leopard,https://blog.talosintelligence.com/cosmic-leopard/
+Sha256Â ,4e4967e3d39256049bc1054b966e5c609245fd3b2a934fda5cd1885526d8221e,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+Sha256Â ,d2f58b08f8abfe5055f3c1f0b8d991dfe1deb62807a5336b134ce2fb36d87284,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+Sha256Â ,db4d8d931f1b979cf32d311f9b03e851d3283b4f7e86252730247da25cf9f093,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+Sha256Â ,4c6e3d8fdb2394edffe4a5bc45a238749e929301efa8bcfa3a247b1ab68eac54,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+Sha256Â ,81de431987304676134138705fc1c21188ad7f27edf6b77a6551aa693194485e,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+Sha256Â ,26151f1e24bc97532e49013fbe04919de1f51e346dba1f10ce2e389160f2fb9d,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+Sha256Â ,a100ce0a67c5890bcc38d2b6e30f9164dfe266126ec40a2fd7eb8e941dc7d025,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+Sha256Â ,806098afc2148dabb838b24c4dfaa148269ac3ddf769aee54e75d46bfef0c506,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
+Sha256Â ,bf37d6cb393b440f790ad2b333624fde079e10bfaeb44d65188e3ccc551c982f,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
 URL,stemtopx[.]com/work/1.doc,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
 URL,stemtopx[.]com/work/3.exe,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
 URL,stemtopx[.]com/work/2.exe,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
@@ -185,8 +185,8 @@ URL,stemtopx[.]com/work/k/1.docx,Gorgon Group,https://unit42.paloaltonetworks.co
 URL,stemtopx[.]com/work/k/1s.exe,Gorgon Group,https://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/
 Domain,Postindia[.]site,APT 36,https://www.seqrite.com/blog/advisory-pahalgam-attack-themed-decoys-used-by-apt36-to-target-the-indian-government/
 IP,88[.]222[.]245[.]211,APT 36,https://www.cyfirma.com/research/turning-aid-into-attack-exploitation-of-pakistans-youth-laptop-scheme-to-target-india/
-Sha256 ,cbf74574278a22f1c38ca922f91548596630fc67bb234834d52557371b9abf5d,APT 36,https://www.cyfirma.com/research/turning-aid-into-attack-exploitation-of-pakistans-youth-laptop-scheme-to-target-india/
-Sha256 ,287a5f95458301c632d6aa02de26d7fd9b63c6661af331dff1e9b2264d150d23,APT 36,https://www.cyfirma.com/research/turning-aid-into-attack-exploitation-of-pakistans-youth-laptop-scheme-to-target-india/
+Sha256Â ,cbf74574278a22f1c38ca922f91548596630fc67bb234834d52557371b9abf5d,APT 36,https://www.cyfirma.com/research/turning-aid-into-attack-exploitation-of-pakistans-youth-laptop-scheme-to-target-india/
+Sha256Â ,287a5f95458301c632d6aa02de26d7fd9b63c6661af331dff1e9b2264d150d23,APT 36,https://www.cyfirma.com/research/turning-aid-into-attack-exploitation-of-pakistans-youth-laptop-scheme-to-target-india/
 Domain,Email[.]gov[.]in[.]gov-in[.]mywire[.]org,APT 36,https://www.cyfirma.com/research/turning-aid-into-attack-exploitation-of-pakistans-youth-laptop-scheme-to-target-india/
 MD5,ced11422832a7380381323ae78a7a9bc,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
 MD5,f270105309e6574cab7a6acb1efb3c20,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
@@ -245,7 +245,7 @@ Domain,151.106.117[.]91,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistan
 Domain,192.64.117[.]203,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
 C2,checkdailytips.servehttp[.]com/dailyworkout,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
 C2,defender[.]windowupdatecache[.]in/,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
-C2,172.67.128[.]127:80 ,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
+C2,172.67.128[.]127:80Â ,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
 C2,84.247.170[.]237:4858,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
 C2,64.188.27[.]144:5863,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
 C2,hxxp://vocport[.]com/Contactus,APT 36,https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/
@@ -581,17 +581,24 @@ MD5,c74c4e67a8e5847a44598ba6be51a6f8,,https://media.licdn.com/dms/document/media
 SHA1,925f6bc2a3fb5bb15a434f5f42196d49f36459e3,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
 SHA1,411db261a8d11db67aa1e0eeaaa4de5d4e6065c4,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
 SHA1,cd923bbb40a4ab64e8ab317b2edaa3865c0bb178,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
-Sha256 ,897362fb06efd3bec985aa9987170f2cba4c511a8e31547e6bbe22f34d50a695,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
-Sha256 ,607185904eat75a3767s7b1dda3bf073454d4895aesc8240e877630d831b02ef,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
-Sha256 ,1f72bd2643995fab4ecf7150b6367fa1b3fab17afd2abed30a98f075e4913087,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
-Sha256 ,794cb0a92f51e1387a6b316b8b5ff83d33a51ecf9bf7cc8e88a619ecb64f1dcf,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
-Sha256 ,078f4ec0f2301d3f7fbfbdbf51984b2833d1adbcca83dd6fbaeb52b5a5c0ce9a,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
-Sha256 ,b1470b2c58806145053e2bd9c12eed5cdc7f8a4ff91aeb0d3fb9420540a120cf,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
-Sha256 ,598b38f44564565e0e76aa604f915ad88a20a8d5b5827151e681c8866b7ea8b0,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
-Sha256 ,a28b598d4b77d559a2545030a9a3e1368081fa3d741fae6a48892436ef44b783,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
-Sha256 ,74dcd9747da0527632624b3532c6a2ac8bd02d61e875120d8eeac3ceda192cac,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
-Sha256 ,d3470bfeeeeb10d1fcfe3196a586304caa1bfe56a1f3d8a3bfa8adc18a835542,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
-Sha256 ,48a0f801f4155c0caa1fdc3fc471fe3e6f973f16384b0354f9705179f6477cf2,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
-Sha256 ,1759e6940f9759919a42eb4b5bc592e7ddebc522f600da56069a6e611499ffab,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
-Sha256 ,6903fea55d6da48fb9d35b2ae8a671bae016e80cc8c73e9d5ffcd3a4077ca947,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
-Sha256 ,2bd2fe5b6ec36f94cbcdf2d89cf92f6f7fdf8fdc3f94e0c98d65b919fc1a00e9,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
+Sha256Â ,897362fb06efd3bec985aa9987170f2cba4c511a8e31547e6bbe22f34d50a695,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
+Sha256Â ,607185904eat75a3767s7b1dda3bf073454d4895aesc8240e877630d831b02ef,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
+Sha256Â ,1f72bd2643995fab4ecf7150b6367fa1b3fab17afd2abed30a98f075e4913087,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
+Sha256Â ,794cb0a92f51e1387a6b316b8b5ff83d33a51ecf9bf7cc8e88a619ecb64f1dcf,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
+Sha256Â ,078f4ec0f2301d3f7fbfbdbf51984b2833d1adbcca83dd6fbaeb52b5a5c0ce9a,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
+Sha256Â ,b1470b2c58806145053e2bd9c12eed5cdc7f8a4ff91aeb0d3fb9420540a120cf,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
+Sha256Â ,598b38f44564565e0e76aa604f915ad88a20a8d5b5827151e681c8866b7ea8b0,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
+Sha256Â ,a28b598d4b77d559a2545030a9a3e1368081fa3d741fae6a48892436ef44b783,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
+Sha256Â ,74dcd9747da0527632624b3532c6a2ac8bd02d61e875120d8eeac3ceda192cac,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
+Sha256Â ,d3470bfeeeeb10d1fcfe3196a586304caa1bfe56a1f3d8a3bfa8adc18a835542,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
+Sha256Â ,48a0f801f4155c0caa1fdc3fc471fe3e6f973f16384b0354f9705179f6477cf2,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
+Sha256Â ,1759e6940f9759919a42eb4b5bc592e7ddebc522f600da56069a6e611499ffab,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
+Sha256Â ,6903fea55d6da48fb9d35b2ae8a671bae016e80cc8c73e9d5ffcd3a4077ca947,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
+Sha256Â ,2bd2fe5b6ec36f94cbcdf2d89cf92f6f7fdf8fdc3f94e0c98d65b919fc1a00e9,,https://media.licdn.com/dms/document/media/v2/D561FAQE-Vv_zv2ZVWQ/feedshare-document-pdf-analyzed/B56Za12k7nHgAY-/0/1746807709476?e=1747872000&v=beta&t=50dsRX7Vffnh_6lZLxZFNrIYmU5WApHa6VDfJqBwY-4
+MD5,905134a46153e071d453e086dc37c47a,APT36,https://www.linkedin.com/posts/shilpesh-trivedi-676821102_apt36-malware-samples-activity-7325859634227949568-sAQ0?
+MD5,609308aa7da464c40cb2927ebf01793a,APT36,https://www.linkedin.com/posts/shilpesh-trivedi-676821102_apt36-malware-samples-activity-7325859634227949568-sAQ0?
+MD5,e2babc163a149bc6ff79a3d43aeb54e7,APT36,https://www.linkedin.com/posts/shilpesh-trivedi-676821102_apt36-malware-samples-activity-7325859634227949568-sAQ0?
+URL,nationaldefensecollege[.]com,APT36,https://www.linkedin.com/posts/shilpesh-trivedi-676821102_apt36-malware-samples-activity-7325859634227949568-sAQ0?
+URL,nationaldefencebackup[.]xyz,APT36,https://www.linkedin.com/posts/shilpesh-trivedi-676821102_apt36-malware-samples-activity-7325859634227949568-sAQ0?
+,,,
+,,,
