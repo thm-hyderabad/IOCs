@@ -792,3 +792,225 @@ IP,104[.]21[.]41[.]144,APT-36,https://www.cyfirma.com/research/apt36-phishing-ca
 MD5,640b240bf39da34dcfddf1be94593276,,https://x.com/suyog41/status/1937751476916621432
 MD5,03465ea2834120ff0d7111d3ac5f8822,,https://x.com/suyog41/status/1937751476916621432
 URL,drive[.]google[.]com/file/d/1c-5EqS7ztM2QrhKTTgIdOsdfWgx1wj6N/view?usp=sharing,,https://x.com/suyog41/status/1937751476916621432
+MD5,e5f5b37c7bc791532d4139fec40a1687,APT-36,https://x.com/Cyberteam008/status/1966104749398245423
+MD5,0a671f5849a24aceb605d41dcb607230,APT-36,https://x.com/Cyberteam008/status/1966104749398245423
+MD5,ae0194034d39051ae1e93acb7ca39df2,APT-36,https://x.com/Cyberteam008/status/1966104752779047237
+URL,cloudstore[.]cam,APT-36,https://x.com/Cyberteam008/status/1966104752779047237
+URL,2ndline[.]cfd,APT-36,https://x.com/Cyberteam008/status/1966104752779047237
+IP,5.178.0[.]29,APT-36,https://x.com/Cyberteam008/status/1966104752779047237
+Sha256 ,3326ba81b48ab03f7f49d2da70d3bbe4ea0e163d33e7399d528152b7c3da9170,,https://x.com/ThreatBookLabs/status/1965233844426342902
+IP,157[.]245[.]139[.]146,,https://x.com/ThreatBookLabs/status/1965233844426342902
+IP,159[.]89[.]165[.]86,,https://x.com/ThreatBookLabs/status/1965233844426342902
+IP,161.97.82[.]97,,https://x.com/okx_VFJ_/status/1960000808868851968
+MD5, 6ac0fe0fa5d9af8193610d710a7da63c,APT-36,https://www.cloudsek.com/blog/investigation-report-apt36-malware-campaign-using-desktop-entry-files-and-google-drive-payload-delivery
+SHA1, 3e3169c513c02126028480421fb341a167cb9fcd,APT-36,https://www.cloudsek.com/blog/investigation-report-apt36-malware-campaign-using-desktop-entry-files-and-google-drive-payload-delivery
+Sha256 ,34ad45374d5f5059cad65e7057ec0f3e468f00234be7c34de033093efc4dd83d,APT-36,https://www.cloudsek.com/blog/investigation-report-apt36-malware-campaign-using-desktop-entry-files-and-google-drive-payload-delivery
+MD5,a484f85d132609a4a6b5ed65ece7d331,APT-36,https://www.cloudsek.com/blog/investigation-report-apt36-malware-campaign-using-desktop-entry-files-and-google-drive-payload-delivery
+SHA1,1982f09bfab3a6688bb80249a079db1a759214b7,APT-36,https://www.cloudsek.com/blog/investigation-report-apt36-malware-campaign-using-desktop-entry-files-and-google-drive-payload-delivery
+Sha256 ,6347f46d77a47b90789a1209b8f573b2529a6084f858a27d977bf23ee8a79113,APT-36,https://www.cloudsek.com/blog/investigation-report-apt36-malware-campaign-using-desktop-entry-files-and-google-drive-payload-delivery
+MD5,566ddd4eb4ca8d4dd67b72ee7f944055,APT-36,https://www.cloudsek.com/blog/investigation-report-apt36-malware-campaign-using-desktop-entry-files-and-google-drive-payload-delivery
+SHA1,df4db969a69efc1db59f4d3c596ed590ee059777,APT-36,https://www.cloudsek.com/blog/investigation-report-apt36-malware-campaign-using-desktop-entry-files-and-google-drive-payload-delivery
+Sha256 ,7a946339439eb678316a124b8d700b21de919c81ee5bef33e8cb848b7183927b,APT-36,https://www.cloudsek.com/blog/investigation-report-apt36-malware-campaign-using-desktop-entry-files-and-google-drive-payload-delivery
+URL,seemysitelive[.]store,APT-36,https://www.cloudsek.com/blog/investigation-report-apt36-malware-campaign-using-desktop-entry-files-and-google-drive-payload-delivery
+IP,164.215.103[.]55,APT-36,https://www.cloudsek.com/blog/investigation-report-apt36-malware-campaign-using-desktop-entry-files-and-google-drive-payload-delivery
+URL,ws://seemysitelive[.]store:8080/ws,APT-36,https://www.cloudsek.com/blog/investigation-report-apt36-malware-campaign-using-desktop-entry-files-and-google-drive-payload-delivery
+URL,https://drive.google.com/file/d/1kn0L_6WYbfUUx0dmzwfALDnzkVHJAPTu/view?usp=drive_link,APT-36,https://www.cloudsek.com/blog/investigation-report-apt36-malware-campaign-using-desktop-entry-files-and-google-drive-payload-delivery
+IP,107.175.64[.]209,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+IP,64.188.25[.]205 ,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,clawsindia[.]com,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,mail[.]clawsindia[.]com,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,larsentobro[.]com,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,millitarytocorp[.]com,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,7thcpcupdates[.]info,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,india[.]gov[.]in[.]attachments[.]downloads[.]7thcpcupdates[.]info,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,email[.]gov[.]in[.]attachment[.]drive[.]servicesmail[.]site,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,tprlink[.]com,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,armypostalservice[.]com,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,isroddp[.]com,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,mail[.]isroddp[.]com,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,pmayindia[.]com,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,mailer.pmayindia[.]com,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://drivestransfer[.]com/files/Special-Services-Allowance-Armd-Forces.xlam,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://drivestransfer[.]com/files/Officers-Posting-2021.doc,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,"hxxp://drivestransfer[.]com/myfiles/Dinner%20Invitation.doc/win10/Dinner%20Invitation
+.doc",APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://drivestransfer[.]com/files/Parade-2021.xlam,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://drivestransfer[.]com/files/Age-Review-of-Armd-Forces.doc,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://drivestransfer[.]com/files/My-Resume-Detail.doc,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxps://emailhost[.]network/National-Conference-2021,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://mediaclouds[.]live/files/cnics.zip,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://mediaclouds[.]live/files/attachment.zip,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://mediabox[.]live/anita-resume4,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://mediabox[.]live/files/nisha-resume-2020.zip,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://mediafiles[.]live/files/my%20fldr%20for%20u%20diensh.zip,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,"hxxp://mediafiles[.]live/files/for%20u%20krishna%20my%20pic%20and%20video%20fldr
+.zip",APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://mediafiles[.]live/files/khushi%20pics%20all.zip,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxps://mediafiles[.]live/aditii,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxps://mediaflix[.]net/BHC-PR,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://mediaflix[.]live/files/skype-lite.apk,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://mediadrive[.]cc/?a=W1549544649I,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,"hxxp://mediadrive[.]cc/?
+a=W1550558721I&fbclid=IwAR1PzHnHCOjDqfpqaBqxnY4o1xMX6ibdgXACo
+mUmJuHFYHgtCBHFq5NlYug",APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://hostflix[.]live/files/my_new_pic.zip,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://shareflix[.]co/files/lkgame.apk,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://shareflix[.]co/larmina-circulum-vetae-complete-2020,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxps://studioflix[.]net/my-social,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://social.medialinks[.]cc/files/scan0001.rar,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://social.medialinks[.]cc/Case-Detail,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://social.medialinks[.]cc/my-100-pics,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://social.medialinks[.]cc/files/hot_song.rar,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,"hxxp://email.gov.in.attachment.drive.servicesmail[.]site/files/Co
+ast%20Guard%20HQ%2010.rar",APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://filelinks[.]live/files/Note%20Verbal.doc,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://filelinks[.]live/Details-and-Invitations,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://file-attachment[.]com/files/fauji%20india%20september%202019.xls,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://mediashare[.]cc/?a=W1551315913I,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxps://shareone[.]live/New-sonam-cv1,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://cloudsbox[.]net/files/new%20cv.zip,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxps://sharingmymedia[.]com/files/1More-details.doc,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://sharingmymedia[.]com/recordsdata/Standards-of-Military-Officers.doc,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://sharingmymedia[.]com/files/7All-Selected-list.xls,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://armypostalservice[.]com/myfiles/file.doc/win7/file.doc,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+URL,hxxp://newsupdates[.]myftp.org/lee/vbc.exe,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+Sha256 ,662c3b181467a9d2f40a7b632a4b5fe5ddd201a528ba408badbf7b2375ee3553,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+Sha256 ,9072e1af4382183be07719286f8017f6eddd9460b2e6f8a47fb042ec17aeb569,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+Sha256 ,2ad362e25989b0b1911310345da90473df9053190737c456494b0c26613c8d1f,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+Sha256 ,c8f27a014db8fa34fed08f6d7d50b728a8d49084dc20becdb23fff2851bae9cb,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+Sha256 ,5bc32ad6ca2b8c6107c45715d61521acc0abca6f5da135161ef374f68ea3dcbd,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+Sha256 ,b92890e6da84c381330319c80ec0112cba70f50ce7f9748f8a438f2c99225cd0,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+Sha256 ,0335de8eadbbd5dc7cbe92ef869bcea6f6596ac39a38680142c982ec6e97ecde,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+Sha256 ,856f656d41dae458a3c2a78dfa48537028b5f1e2101992dbc87bb5fe42feb821,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+Sha256 ,877b64590533a9545d160acb720138d9a675a7c97dc3c48005a3edae0a44c8df,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+Sha256 ,0196bc9ac3db6f02cfa97323c8fce6cc7318b8f8fadb3e73bdf7971b3c541964,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+Sha256 ,b85536589c79648a10868b58075d7896ec09bbde43f9c4bad95ed82a200652bc,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+Sha256 ,3e9d94714c78d02eedc5f9085982edd5b840950e65702d8ee1544b643733570b,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+Sha256 ,57572d520359e209357776fa2d52455dccd64999d1f3ca7a6b90bcbf11535c0a,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+Sha256 ,b63f375f43a852f24f55ef3000b5a9bc3563cc5f00abcf4bea12e033348ec93b,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+Sha256 ,d7317a96f983a73cdccf319bcd4461cdb736e9b6b5232927861499494db957f2,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+Sha256 ,e61aefcdeb1e5bd3855279e5e5fd676d3fdb78d1f9d6963694508e521115ea1d,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+Sha256 ,0172bec4d945add9f12ce4d7d23f0e0da1ced677e89bfc132b000d444876cb41,APT-36,https://atheniantech.com/reports/Analysis-on-APT-36.pdf
+IP,192.64.118[.]76,APT-36,https://hunt.io/blog/apt36-clickfix-campaign-indian-ministry-of-defence
+IP,"185.117.90[.]212	",APT-36,https://hunt.io/blog/apt36-clickfix-campaign-indian-ministry-of-defence
+URL,email[.]gov[.]in[.]drdosurvey[.]info,APT-36,https://hunt.io/blog/apt36-clickfix-campaign-indian-ministry-of-defence
+URL,email[.]gov[.]in[.]avtzyu[.]store,APT-36,https://hunt.io/blog/apt36-clickfix-campaign-indian-ministry-of-defence
+Sha256 ,7087e5f768acaad83550e6b1b9696477089d2797e8f6e3f9a9d69c77177d030e,APT-36,https://hunt.io/blog/apt36-clickfix-campaign-indian-ministry-of-defence
+IP,62[.]60[.]226[.]112,,https://www.darktrace.com/blog/patch-and-persist-darktraces-detection-of-blind-eagle-apt-c-36
+URL,hxxp://62[.]60[.]226[.]112/file/3601_2042.exe,,https://www.darktrace.com/blog/patch-and-persist-darktraces-detection-of-blind-eagle-apt-c-36
+URL,21ene.ip-ddns[.]com,,https://www.darktrace.com/blog/patch-and-persist-darktraces-detection-of-blind-eagle-apt-c-36
+URL,diciembrenotasenclub[.]longmusic[.]com,,https://www.darktrace.com/blog/patch-and-persist-darktraces-detection-of-blind-eagle-apt-c-36
+URL,scigov[.]cn,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,zx176[.]com,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,tzbs.tzdpt[.]com,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,hcmindia[.]net,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,hcmvip-india[.]net,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,dss.egovservice[.]in,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,pmshriggssssiwan[.]in,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,pakora.egovservice[.]in,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,modspaceinterior[.]com,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,reviewassignment[.]online,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,cpcontacts.egovservice[.]in,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,updates.biossysinternal[.]com,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,updates.widgetservicecenter[.]com,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,cmc.egovservice[.]in,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,cmc.egovservice[.]in,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,educationportals[.]in,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,mail.egovservice[.]in,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,dns1.indianblog[.]xyz,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,cpanel.egovservice[.]in,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,pakola.egovservice[.]in,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,webdisk.egovservice[.]in,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,webmail.egovservice[.]in,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,gadchiroli.egovservice[.]in,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+URL,cpcalendars.egovservice[.]in,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,a3d8e4f55c50bc916f6410f31a811e2d,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,b6ef8bb7e47ddc55131990e21d2519a7,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,e321f5efca5fbe7ea23a168b6c550698,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,f78ef3ce842241a692a831f1f601628f,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,fbd5257ef2f7befbdcb77f3bef137091,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,0690116134586d41a23baed300fc6355,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,0a67bfda993152c93a212087677f9b60,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,0e57890a3ba16b1ac0117a624f262e61,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,0eb9e8bec7cc70d603d2d8b6efdd6bb5,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,1d65fa0457a9917809660fff782689fe,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,320bc4426f4f152d009b6379b5257c78,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,32a44a8f7b722b078b647e82cb9e85cf,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,53eebedc3846b7cf5e29a90a5b96c803,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,57c2f8b4bbf4037439317a44c2263346,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,589a65e0f3fe6777d17d0ac36ab07f6f,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,7637cbfa99110fe8e1074e7ead66710e,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,83ce6ee6ad09a466eb96f347a8b0dc20,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,8ceeeec0e33026114f028cbb006cb7fc,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,97c3328427b72f05f120e9a98b6f9b09,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,9d189e06d3c4cefdd226e645a0b8bdb9,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,9de50f9357187b623b06fc051e3cac4f,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,b5e71ff3932c5ef6319b7ca70f7ba8da,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,e165114280204c39e99cf0c650477bf8,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+MD5,ef40f484e095f0f6f207139cb870a16e,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+Sha256 ,9f1f11a708d393e0a4109ae189bc64f1f3e312653dcf317a2bd406f18ffcc507,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+Sha256 ,93fb036e65c0683af5ffb98e2b61e30499dec068a4e15bf3bec8066d3e246852,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+Sha256 ,bc1acdca196f1ff72722243be2afe1429b88122afb9d4852d6d6e57689411d3d,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+Sha256 ,a31f222fc283227f5e7988d1ad9c0aecd66d58bb7b4d8518ae23e110308dbf91,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+Sha256 ,d777bcb6fba73faf96cb422383404c3b81a8afa5aebbc8ed70076081de7daa0c,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+Sha256 ,81038a217237afd16d80da7fc9219cbd145f9698bb512e2b625559a47ba73fec,,https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/kpmg-ctip-sidecopy-apt-20-may-2025.pdf.coredownload.inline.pdf
+IP,209[.]127[.]19[.]241[:]10284,,https://www.trendmicro.com/en_in/research/22/a/investigating-apt36-or-earth-karkaddans-attack-chain-and-malware.html
+Sha1,738d31ceca78ffd053403d3b2bc15847682899a0,APT-36,https://www.sentinelone.com/labs/transparent-tribe-apt36-pakistan-aligned-threat-actor-expands-interest-in-indian-education-sector/
+Sha1,9ed39c6a3faab057e6c962f0b2aaab07728c5555,APT-36,https://www.sentinelone.com/labs/transparent-tribe-apt36-pakistan-aligned-threat-actor-expands-interest-in-indian-education-sector/
+Sha1,af6608755e2708335dc80961a9e634f870aecf3c,APT-36,https://www.sentinelone.com/labs/transparent-tribe-apt36-pakistan-aligned-threat-actor-expands-interest-in-indian-education-sector/
+Sha1,e000596ad65b2427d7af3313e5748c2e7f37fba7,APT-36,https://www.sentinelone.com/labs/transparent-tribe-apt36-pakistan-aligned-threat-actor-expands-interest-in-indian-education-sector/
+Sha1,fd46411b315beb36926877e4b021721fcd111d7a,APT-36,https://www.sentinelone.com/labs/transparent-tribe-apt36-pakistan-aligned-threat-actor-expands-interest-in-indian-education-sector/
+Sha1,516db7998e3bf46858352697c1f103ef456f2e8e,APT-36,https://www.sentinelone.com/labs/transparent-tribe-apt36-pakistan-aligned-threat-actor-expands-interest-in-indian-education-sector/
+Sha1,842f55579db786e46b20f7a7053861170e1c0c5e,APT-36,https://www.sentinelone.com/labs/transparent-tribe-apt36-pakistan-aligned-threat-actor-expands-interest-in-indian-education-sector/
+Sha1,87e0ea08713a746d53bef7fb04632bfcd6717fa9,APT-36,https://www.sentinelone.com/labs/transparent-tribe-apt36-pakistan-aligned-threat-actor-expands-interest-in-indian-education-sector/
+Sha1,911226d78918b303df5110704a8c8bb599bcd403,APT-36,https://www.sentinelone.com/labs/transparent-tribe-apt36-pakistan-aligned-threat-actor-expands-interest-in-indian-education-sector/
+Sha1,973cb3afc7eb47801ff5d2487d2734ada6b4056f,APT-36,https://www.sentinelone.com/labs/transparent-tribe-apt36-pakistan-aligned-threat-actor-expands-interest-in-indian-education-sector/
+URL,richa-sharma.ddns[.]net,APT-36,https://www.sentinelone.com/labs/transparent-tribe-apt36-pakistan-aligned-threat-actor-expands-interest-in-indian-education-sector/
+URL,cloud-drive[.]store,APT-36,https://www.sentinelone.com/labs/transparent-tribe-apt36-pakistan-aligned-threat-actor-expands-interest-in-indian-education-sector/
+URL,drive-phone[.]online,APT-36,https://www.sentinelone.com/labs/transparent-tribe-apt36-pakistan-aligned-threat-actor-expands-interest-in-indian-education-sector/
+URL,s1.fileditch[.]ch,APT-36,https://www.sentinelone.com/labs/transparent-tribe-apt36-pakistan-aligned-threat-actor-expands-interest-in-indian-education-sector/
+MD5,730f708f2788fc83e15e93edd89f8c59,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+MD5,0cd16d0a2768b9ec0d980ccf875b2724,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+MD5,0673341ccceeace3f0b268488f05db80,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+MD5,2b1101f9078646482eb1ae497d44104c,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+MD5,795d1be0915ec60c764b7a7aa6c54334,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+MD5,8703b910ece27b578f231ce5eb1afd8f,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+MD5,009cb6da5c4426403b82c79adf67021c,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+MD5,3a2c701408d94bbcdcf954793f6749bc,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+MD5,1bac7ea5a9558d937eaf0682523e6a06,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+MD5,d3fe72a3b9cb5055662e6a0e19b8f010,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+MD5,b54512bf0ed75a9f2dee26a4166461a2,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+MD5,ab127d76a40f1cb0cfd81ba1e786d983,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+MD5,b9d9e75a2e6b81277f2052a1f0b14e45,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+MD5,58643299e340ae7b01efc67ef09ed369,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+MD5,16ea7ce77c875a17049e9607323d1be4,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+MD5,47990d1df44767ee3a6c4a6673ee76e9,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+MD5,7ecaa3c5a647d671a9aa4369d4a43b83,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+MD5,af2ec3dcfdbb7771b0a7a3d2035e7e99,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+Sha256 ,06d9662572a47d31a51adf1e0085278e0233e4299e0d7477e5e4a3a328dea9d1,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+Sha256 ,a7fd97177186aff9f442beb9da6b1ab3aff47e611b94609404e755dd2f97dce8,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+Sha256 ,70bafcf666e8e821212f55ea302285bb860d2b7c18089592a4a093825adbaa71,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+Sha256 ,60b0b6755cf03ea8f6748a1e8b74a80a3d7637c986df64ee292f5ffefcd610a2,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+Sha256 ,7e04e62f337c5059757956594b703fc1a995d436c48efa17c45eb0f80af8a890,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+Sha256 ,2b6a273eae0fb1835393aea6c30521d9bf5e27421c2933bfb3beee8c5b27847e,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+Sha256 ,d66ba4ee97a2f42d85ca383f3f61a2fac4f0b374aad1337f5f29245242f2d990,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+Sha256 ,dca78e069bfd9ca4638b4f9cb21dff721530d16924e502c03d8c9aa334b7ca0d,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+Sha256 ,348c0980c61d7c682cce7521aaad13a20732f7115cb5559729b86ca255f1af7f,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+Sha256 ,6f839ded49ebf1dad014d79fbab396e2067c487685556a8402f3acdeb1600d98,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+Sha256 ,0a52c0ac04251ac1a8bc193af47f33136ae502b0c237de5236d1136acc3b1140,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+Sha256 ,b41e1d6340388b08694ae649a54fa09372f92f4038fd84259a06716fa706b967,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+Sha256 ,6296fb22d94d1956fda2a6a48b36e37ddd15cf196c434ab409c787bf8aa47ac3,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+Sha256 ,263f9e965f4f0d042537034e33699cf6d852fb8a52ac320a0e964ce96c48f5e5,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+Sha256 ,8d552547fe045f6006f113527eb5dd4a8d5918c989bf11090c7cb44806d595be,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+Sha256 ,308c84c68c18af8458ae61afe1f2eec78f229e188724e271bd192a144fd582fc,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+Sha256 ,b9e10e83a270e1995acaceb88ce684fb97df6156a744565b20b6ec3bc08c2728,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+Sha256 ,b30a9e31b0897bfe6ab80aebcd0982eecf68e9d3d3353c1e146f72195cef0ef5,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+IP,84.247.135[.]235,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+IP,143.110.179[.]176,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+IP,64.227.134[.]248,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+IP,38.54.84[.]83,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+IP,83.171.248[.]67,,https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/
+IP,45.153.241[.]15,,https://freemindtronic.com/apt36-spearphishing-india/
+IP,91.215.85[.]21,,https://freemindtronic.com/apt36-spearphishing-india/
+IP,185.140.53[.]206 ,,https://freemindtronic.com/apt36-spearphishing-india/
+,,,https://freemindtronic.com/apt36-spearphishing-india/
